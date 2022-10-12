@@ -1,6 +1,6 @@
-@ date : 2022. 10. 12
-@ author : Yeabin Lee
-@ title : udacity deep learning projects (all passed)
+@ date : 2022. 10. 12\
+@ author : Yeabin Lee\
+@ title : udacity deep learning projects (all passed)\
 
 [contents]
 1. project 1: Bike Sharing
