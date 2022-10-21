@@ -1,1 +1,5 @@
-Project: TV Script Generation
+@ date: 2022. 10. 21
+@ author: Yeabin Lee
+
+This folder contains 3rd project of Udacity Deep Learning Course.
+In RNN section, "Project: Generate TV Scripts"
